@@ -1,0 +1,12 @@
+header{
+        max-width: 100%;
+        background:black;
+        padding: 12px;
+        display: flex;
+        justify-content: center;
+    }
+    h1{
+        color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+

@@ -1,0 +1,9 @@
+footer {
+    width: 100%;
+    font-size: x-large;
+    background-color: white;
+    color: black;
+    flex-wrap: wrap;
+    padding: 10px;
+    text-align: center;
+}
